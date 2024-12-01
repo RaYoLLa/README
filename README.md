@@ -1,4 +1,4 @@
-# Hi, I'm Liam (aka RaYoLLa)! 👋
+# Hi, I'm RaYoLLa! 👋
 
 Welcome to my GitHub!  
 
@@ -9,4 +9,4 @@ I'm a passionate **developer**, known by most as **RaYoLLa**. The story behind m
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to talk about gaming, development, or anything in between! 🚀
 
 Thanks for stopping by!  
-~ Liam (RaYoLLa)  
+~ RaYoLLa  
